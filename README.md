@@ -4,7 +4,7 @@
 
 
 
-## Factom and Tierion
+# Factom and Tierion: Securing Business Processes on the Blockchain
 
 Aside from serving as a ledger for financial transactions, securing data through timestamping and hashing is one of the most tangible and easy to understand applications of blockchain technology. Things like land registries, titles, patents, audits and inspections all rely on having a trusted source of record keeping. By applying a cryptographic hash function to a document, then recording it to the Bitcoin blockchain, one can verify that the document existed at a certain point in time.
 
@@ -18,7 +18,7 @@ Both projects discussed here, Tierion and Factom seek to alleviate these issues 
 In light of the increasingly common revelations of corporate accounting scandals and falsification of records, such a system would seem to solve a salient need. Technologically speaking, it is also low-hanging fruit since it's only a minor adaptation of Bitcoin's current use as a financial ledger. Projects that attempt to serve this need and solve the remaining problems mentioned above have a high likelihood of success and deserve attention.
 
 
-### Factom
+## Factom
 
 Factom is a decentralized protocol that makes the process of recording business records onto the Bitcoin blockchain more efficient. Potential use cases are numerous, but essentially any business process that benefits from immutable, auditable record keeping would be candidates. Currently, the Factom Inc. website lists two products:
 
