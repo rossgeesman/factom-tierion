@@ -12,7 +12,7 @@ However, there are a few problems that make large-scale use of a Bitcoin-based r
 
 Both projects discussed here, Tierion and Factom seek to alleviate these issues by 
 
-1) Providing a protocol for accepting data from users, formatting it, and securing the data until it can be persisted on the Bitcoin blockchain in a single batch, saving on fees and decreasing throughput.
+1) Providing a protocol for accepting data from users, formatting it, and securing the data until it can be persisted on the Bitcoin blockchain in a single batch, saving on fees and increasing throughput.
 2) Incentivizing individuals to operate the infrastructure carrying out #1 while maintaining security.
 
 In light of the increasingly common revelations of corporate accounting scandals and falsification of records, such a system would seem to solve a salient need. Technologically speaking, it is also low-hanging fruit since it's only a minor adaptation of Bitcoin's current use as a financial ledger. Projects that attempt to serve this need and solve the remaining problems mentioned above have a high likelihood of success and deserve attention.
